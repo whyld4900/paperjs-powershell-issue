@@ -1,0 +1,14 @@
+{
+  "name": "paperjs-powershell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "y-install": "yarn install --force"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "paper": "0.12.11"
+  }
+}
